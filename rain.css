@@ -1,0 +1,11 @@
+body {
+    margin:2px;
+    background: #000;
+  }
+  canvas {
+    background:url('ao-mua.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;  
+  
+  }
